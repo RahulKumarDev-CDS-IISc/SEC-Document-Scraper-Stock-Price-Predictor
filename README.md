@@ -1,1 +1,1 @@
-# SEC-Document-Scraper-Stock-Price-Predictor
+# SEC-Document-Scraper-\& Stock-Price-Predictor
